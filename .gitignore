@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Build directories
+dist/
+
+# Folders
+track_folders/*
